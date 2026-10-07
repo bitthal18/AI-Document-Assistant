@@ -1,0 +1,14 @@
+//Backend
+step 1 - cd backend
+
+step 2 - conda activate .\venv
+
+step 3-  uvicorn main:app --reload
+
+Now check Swagger -http://127.0.0.1:8000/docs
+
+Now open New Terminal for frontend
+
+step 4 - cd frontend
+
+step 5 - npm run dev

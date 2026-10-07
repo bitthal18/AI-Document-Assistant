@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+email-validator
+pwdlib[argon2]
+python-jose[cryptography]
+python-multipart
+
+langchain
+langchain-community
+langchain-text-splitters
+pypdf
+python-dotenv
